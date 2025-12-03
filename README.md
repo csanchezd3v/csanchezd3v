@@ -26,6 +26,16 @@ Lo que estoy aprendiendo y utilizando en mis proyectos:
 
 ---
 
+### 💼 Proyectos Destacados
+
+**💰 Virtual Wallet**
+Una billetera digital simulada donde puedes ver saldo, depositar y transferir.
+* 🛠️ **Tecnologías:** HTML, CSS, JavaScript.
+* 💻 **Código:** [Ver Repositorio](https://github.com/csanchezd3v/virtual-wallet)
+* 🚀 **Demo en vivo:** [Probar Aplicación](https://csanchezd3v.github.io/virtual-wallet/login.html)
+
+---
+
 ### 📊 Mis Estadísticas de GitHub
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=csanchezd3v&show_icons=true&theme=radical)

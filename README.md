@@ -28,6 +28,4 @@ Lo que estoy aprendiendo y utilizando en mis proyectos:
 
 ### 📊 Mis Estadísticas de GitHub
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=csanchezd3v&show_icons=true&theme=radical" alt="csanchezd3v stats" />
-</p>
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=csanchezd3v&show_icons=true&theme=radical)

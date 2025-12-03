@@ -1,16 +1,33 @@
-## Hi there 👋
+### Hola, soy Carlos Sánchez 👋
 
-<!--
-**csanchezd3v/csanchezd3v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido a mi portafolio de GitHub! Soy un desarrollador en formación (**Trainee**) apasionado por la tecnología y la resolución de problemas.
 
-Here are some ideas to get you started:
+Actualmente estoy cursando un **Bootcamp Fullstack de Python**, donde estoy construyendo mis bases en desarrollo web y lógica de programación.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Herramientas
+
+Lo que estoy aprendiendo y utilizando en mis proyectos:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+---
+
+### 🌱 Actualmente estoy trabajando en...
+* Modelado web con **HTML y CSS** (Flexbox/Grid).
+* Lógica de programación con **Python**.
+* Construcción de mi portafolio profesional.
+
+---
+
+### 📊 Mis Estadísticas de GitHub
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=csanchezd3v&show_icons=true&theme=radical" alt="csanchezd3v stats" />
+</p>

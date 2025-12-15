@@ -31,8 +31,8 @@ Lo que estoy aprendiendo y utilizando en mis proyectos:
 **💰 Virtual Wallet**
 Una billetera digital simulada donde puedes ver saldo, depositar y transferir.
 * 🛠️ **Tecnologías:** HTML, CSS, JavaScript.
-* 💻 **Código:** [Ver Repositorio](https://github.com/csanchezd3v/virtual-wallet)
-* 🚀 **Demo en vivo:** [Probar Aplicación](https://csanchezd3v.github.io/virtual-wallet/login.html)
+* 💻 **Código:** [Ver Repositorio](https://github.com/csanchezd3v/Alke-Wallet.git)
+* 🚀 **Demo en vivo:** [Probar Aplicación](https://csanchezd3v.github.io/Alke-Wallet/)
 
 ---
 

@@ -24,8 +24,8 @@ Lo que estoy aprendiendo y utilizando en mis proyectos:
 ---
 
 ### 🌱 Actualmente estoy trabajando en...
-* Modelado web con **HTML y CSS** (Flexbox/Grid).
-* Lógica de programación con **Python**.
+* Fundamentos de desarrollo Backend con **Python**.
+* Lógica de programación y manipulación del DOM con **JavaScript**.
 * Construcción de mi portafolio profesional.
 
 ---
@@ -34,8 +34,8 @@ Lo que estoy aprendiendo y utilizando en mis proyectos:
 
 **💰 Alke Wallet**
 Una billetera digital simulada donde puedes ver saldo, depositar y transferir.
-* 🛠️ **Tecnologías:** HTML, CSS, JavaScript.
-* 💻 **Código:** [Ver Repositorio](https://github.com/csanchezd3v/Alke-Wallet.git)
+* 🛠️ **Tecnologías:** HTML, CSS, JavaScript, jQuery.
+* 💻 **Código:** [Ver Repositorio](https://github.com/csanchezd3v/Alke-Wallet)
 * 🚀 **Demo en vivo:** [Probar Aplicación](https://csanchezd3v.github.io/Alke-Wallet/)
 
 ---

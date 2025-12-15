@@ -10,12 +10,16 @@ Actualmente estoy cursando un **Bootcamp Fullstack de Python**, donde estoy cons
 
 Lo que estoy aprendiendo y utilizando en mis proyectos:
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+<div align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</div>
 
 ---
 
@@ -28,7 +32,7 @@ Lo que estoy aprendiendo y utilizando en mis proyectos:
 
 ### 💼 Proyectos Destacados
 
-**💰 Virtual Wallet**
+**💰 Alke Wallet**
 Una billetera digital simulada donde puedes ver saldo, depositar y transferir.
 * 🛠️ **Tecnologías:** HTML, CSS, JavaScript.
 * 💻 **Código:** [Ver Repositorio](https://github.com/csanchezd3v/Alke-Wallet.git)
